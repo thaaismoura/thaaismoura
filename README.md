@@ -27,5 +27,7 @@
    <a href="https://www.linkedin.com/in/tha%C3%ADs-cristina-de-almeida-moura-5225a8141/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  <a href="https://web.whatsapp.com/contate.me/thaismoura" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-green" target="_blank"></a>
+ 
+  <img src="https://img.shields.io/badge/-WhatsApp-%32CD32?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   
   ![snake gif](https://github.com/thaaismoura/thaaismoura/blob/output/github-contribution-grid-snake.svg)
