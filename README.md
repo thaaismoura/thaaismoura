@@ -26,6 +26,6 @@
   <a href = "mailto:thais.k.1101@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/tha%C3%ADs-cristina-de-almeida-moura-5225a8141/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- <a href="https://instagram.com/contate.me/thaismoura" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-green" target="_blank"></a>
+ <a href="https://web.whatsapp.com/contate.me/thaismoura" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-green" target="_blank"></a>
   
   ![snake gif](https://github.com/thaaismoura/thaaismoura/blob/output/github-contribution-grid-snake.svg)
