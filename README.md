@@ -24,6 +24,7 @@
   <a href="https://web.whatsapp.com/contate.me/thaismoura" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%32CD32?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/thaiisinhaa" target="_blank"><img src="https://img.shields.io/badge/facebook-0000CD?.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://instagram.com/thaiscristina_am" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:thais.k.1101@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/Thaais1101" target="_blank"><img src="https://img.shields.io/badge/Twitter-4169E1?.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> 
    <a href="https://github.com/thaaismoura/" target="_blank"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
