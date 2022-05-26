@@ -16,7 +16,7 @@
   <img align="center" alt="Thais-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thais-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Thais-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Thais-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/vqJBtzm/Whats-App-Image-2022-05-25-at-18-49-47-2-removebg-preview.png" alt="Whats-App-Image-2022-05-25-at-18-49-47-2-removebg-preview" border="0"></a>
+  <img align="right" alt="Thais-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/kQnWCNt/Whats-App-Image-2022-05-25-at-21-23-56-removebg-preview.png" alt="Whats-App-Image-2022-05-25-at-21-23-56-removebg-preview" border="0"></a>
 </div>
   
   ##
