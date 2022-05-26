@@ -1,7 +1,7 @@
 ## Oiii, eu sou a Thaís Cristina!!
 
 
-- 🔮 Futura programadora e desenvolvedora de Front-end 👩‍💻​
+- 🔮 Futura programadora e desenvolvedora Dev Full Stack 👩‍💻​
 - 🧑‍🎓​ Estudante de Ciência da Computação 🖥️​
 - 🤓​ Meu objetivo é aprender e compartilhar conhecimeto 🍀​
 
