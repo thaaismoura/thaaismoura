@@ -28,8 +28,6 @@
   <a href = "mailto:thais.k.1101@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/Thaais1101" target="_blank"><img src="https://img.shields.io/badge/Twitter-4169E1?.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> 
    <a href="https://github.com/thaaismoura/" target="_blank"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/tha%C3%ADs-cristina-de-almeida-moura-5225a8141/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://web.dio.me/users/thaiscamoura_11?tab=skills" target="_blank"><img src=" https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" target="_blank"></a> 
   
   ![snake gif](https://github.com/thaaismoura/thaaismoura/blob/output/github-contribution-grid-snake.svg)
   </div>
