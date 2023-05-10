@@ -15,7 +15,7 @@
   <img align="center" alt="Thais-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thais-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thais-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Thais-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
   <img align="right" alt="Thais-pic" height="150" style="border-radius:50px;" <img src="https://i.ibb.co/52P2TTT/4.png" alt="4" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'>site para criar forum</a><br />
 </div>
   
