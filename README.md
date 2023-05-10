@@ -29,7 +29,7 @@
   <a href="https://twitter.com/Thaais1101" target="_blank"><img src="https://img.shields.io/badge/Twitter-4169E1?.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> 
    <a href="https://github.com/thaaismoura/" target="_blank"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
   
- <a href="https://web.dio.me/users/thaiscamoura_11/users?tab=settings&page=1" target="_blank"><img src="https://ibb.co/TcGSKfP"  target="_blank"></a> 
+ <a href="https://web.dio.me/users/thaiscamoura_11/users?tab=settings&page=1" target="_blank"><img src="[https://ibb.co/TcGSKfP](https://photos.google.com/photo/AF1QipPIKhjpymbqN6WSj_YVohZuuWy1vSxe0ne6IHcS)"  target="_blank"></a> 
   
   ![snake gif](https://github.com/thaaismoura/thaaismoura/blob/output/github-contribution-grid-snake.svg)
   </div>
