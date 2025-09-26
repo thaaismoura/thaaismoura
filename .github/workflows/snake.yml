@@ -1,7 +1,7 @@
 name: Generate Snake
 
 on:
-  schedule: # Executa automaticamente todo dia à meia-noite UTC
+  schedule: # Executa todo dia à meia-noite UTC
     - cron: "0 0 * * *"
   workflow_dispatch: # Permite rodar manualmente
 
@@ -9,18 +9,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: thaaismoura
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
-            dist/github-contribution-grid-snake.gif
-            dist/github-contribution-grid-snake-dark.gif
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          github_user_name: thaismoura
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
