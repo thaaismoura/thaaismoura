@@ -29,5 +29,7 @@
   <a href="https://twitter.com/Thaais1101" target="_blank"><img src="https://img.shields.io/badge/Twitter-4169E1?.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> 
    <a href="https://github.com/thaaismoura/" target="_blank"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://thaiscamoura.github.io/thaiscamoura/github-contribution-grid-snake.svg)
+ ### 🐍 Snake eating my contributions
+![Snake animation](https://github.com/thaaismoura/thaaismoura/blob/output/github-contribution-grid-snake.svg)
+
   </div>
