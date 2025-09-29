@@ -1,30 +1,40 @@
-# 👩‍💻 Thaís Moura
+## Oiii, eu sou a Thaís Cristina!!
 
-<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-## 🚀 Tech Stack  
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> 
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> 
-<img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" /> 
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> 
+- 🔮 Futura programadora e desenvolvedora Full Stack 👩‍💻​
+- 🧑‍🎓​ Estudante de Ciência da Computação 🖥​
+- 🤓​ Meu objetivo é aprender e compartilhar conhecimeto 🍀​
 
----
+<div align="center">
+  <a href="https://github.com/thaaismoura">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaaismoura&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaaismoura&layout=compact&langs_count=7&theme=panda"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Thais-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Thais-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Thais-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Thais-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Thais-pic" height="150" style="border-radius:50px;" <img src="https://i.ibb.co/52P2TTT/4.png" alt="4" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'></a><br/>
+</div>
+  
+  ##
+<div> 
+  <a href="https://web.whatsapp.com/contate.me/thaismoura" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%32CD32?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/thaiisinhaa" target="_blank"><img src="https://img.shields.io/badge/facebook-0000CD?.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://instagram.com/thaiscristina_am" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:thais.k.1101@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/Thaais1101" target="_blank"><img src="https://img.shields.io/badge/Twitter-4169E1?.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> 
+   <a href="https://github.com/thaaismoura/" target="_blank"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+  
+ ### 🐍 Snake eating my contributions
+![Snake animation](https://raw.githubusercontent.com/thaaismoura/thaaismoura/output/github-contribution-grid-snake.gif)
 
-## 🌐 Social  
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seu_numero)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaaismoura)  
 
----
 
-## 🐍 Snake eating my contributions  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thaaismoura/thaaismoura/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thaaismoura/thaaismoura/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/thaaismoura/thaaismoura/output/github-contribution-grid-snake.svg">
-</picture>
+
+
+  </div>
