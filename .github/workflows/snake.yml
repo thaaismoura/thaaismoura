@@ -1,25 +1,38 @@
 name: Generate Snake
 
 on:
-  schedule: # Executa todo dia à meia-noite UTC
+  # Executa sempre que tiver push na branch main
+  push:
+    branches:
+      - main
+  # Executa automaticamente 1 vez por dia
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # Permite rodar manualmente
+  # Permite rodar manualmente pela aba Actions
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
+      # Clona o repositório
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # Gera a cobrinha (SVG e GIF)
       - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
-          github_user_name: thaismoura
-          outputs: dist/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake.gif
 
+      # Publica os arquivos na branch "output"
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
