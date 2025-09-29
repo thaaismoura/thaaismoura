@@ -30,7 +30,9 @@
    <a href="https://github.com/thaaismoura/" target="_blank"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
   
  ### 🐍 Snake eating my contributions
+![Snake animation](https://raw.githubusercontent.com/thaaaismoura/thaaaismoura/output/github-contribution-grid-snake.svg)
 ![Snake animation](https://raw.githubusercontent.com/thaaaismoura/thaaaismoura/output/github-contribution-grid-snake.gif)
+
 
 
 
